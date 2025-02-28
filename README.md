@@ -2,6 +2,7 @@
 
 # Problem Statement for Application Development:
 The objective of the HTHIP internship project is:
+
 ● Data Preprocessing of invoices dataset
 
 ● Feature Engineering on the dataset
